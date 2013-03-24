@@ -1,6 +1,6 @@
 {
   "name": "node-yp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A wrapper library around the Yellow Pages API",
   "main": "lib/yellowpages.js",
   "repository": {
