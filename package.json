@@ -1,11 +1,16 @@
 {
   "name": "node-yp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A wrapper library around the Yellow Pages API",
-  "main": "lib/node-yp.js",
+  "main": "lib/yellowpages.js",
   "repository": {
     "type": "git",
-    "url": "https://JibSales@github.com/JibSales/node-yp.git"
+    "url": "https://github.com/JibSales/node-yp.git"
+  },
+  "keywords": [ "Yellow Pages", "yellow pages", "yp" ],
+  "bugs": {
+    "url" : "http://github.com/JibSales/node-yp/issues",
+    "email" : "info@jibsales.com"
   },
   "author": "JibSales",
   "license": "MIT",
